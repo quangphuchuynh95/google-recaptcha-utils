@@ -1,18 +1,22 @@
 {
-    "name": "quangphuc/google-recaptcha-utils",
-    "type": "library",
-    "require": {
-        "guzzlehttp/guzzle": "^7.3"
-    },
-    "autoload": {
-        "psr-4": {
-            "Quangphuc\\GoogleRecaptchaUtils\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "Huỳnh Quang Phúc",
-            "email": "quangphuc.huynh95@gmail.com"
-        }
-    ]
+  "name": "quangphuc/google-recaptcha-utils",
+  "type": "library",
+  "version": "1.0.0",
+  "license": [
+    "MIT"
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Quangphuc\\GoogleRecaptchaUtils\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Huỳnh Quang Phúc",
+      "email": "quangphuc.huynh95@gmail.com"
+    }
+  ]
 }
